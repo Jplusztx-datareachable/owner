@@ -1,0 +1,42 @@
+{
+    "components": {
+        "header": {
+            "home": "HOME",
+            "team": "TEAM",
+            "resources": "RESOURCES",
+            "aboutUs": "ABOUT US",
+            "contact": "CONTACT",
+            "language": "LANGUAGE",
+            "languageEN": "ENGLISH",
+            "languageCN": "中文"
+        },
+        "address": {
+            "subTitle": "GET IN TOUCH",
+            "phone": "+61 431 431 467",
+            "email": "hr@datareachable.com",
+            "address": "Unit 5, 88-90 Belmont Road Glenfield, NSW 2167, Australia"
+        },
+        "footer": {
+            "subTitle1": "About Datareachable",
+            "subTitle2": "Site Links",
+            "subTitle3": "Following Us",
+            "subTitle4": "Get In Touch",
+            "content1": "I'm a paragraph. Click here to add your own text and edit me. I'm a great place for you to tell a story and let your users know a litter more about you. I'm a paragraph. I'm a paragraph. Click here to add your own text and edit me. I'm a great place for you to tell a story and let your users know a litter more about you. I'm a paragraph.",
+            "home": "Home",
+            "team": "Team",
+            "resources": "Resources",
+            "aboutUs": "About Us",
+            "contact": "Contact",
+            "phone": "+61 431 431 467",
+            "email": "query@datareachable.com",
+            "address": "Unit 5, 88-90 Belmont Road Glenfield, NSW 2167, Australia",
+            "copyright": "Copyright © 2020 dataReachable Pty Ltd. All rights reserved."
+        }
+    },
+    "pages": {
+        "dashboardPage": {},
+        "accountManagerPage": {
+            "title": "History"
+        }
+    }
+}
